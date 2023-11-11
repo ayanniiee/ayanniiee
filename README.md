@@ -1,3 +1,8 @@
+
+⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆HI⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
+
+My name is Ayan! I decided to kick start my web dev journey again and it is pretty fun so far.
+My background is in <b>Business Technology</b> 
 ### Hi there 👋
 
 <!--
