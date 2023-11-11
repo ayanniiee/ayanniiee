@@ -12,8 +12,12 @@ My background is in <b>Business Technology</b>
 
 🌱 I am currently just working through html,css, JavaScript and Java.Years ago I recieved the <b>MTA</b>.
 
-Outside tech, I enjoy learning language learning. 👯  이거 읽을 수 있다면 같이 공부해볼까요? 저는 토픽 시험 준비 중이에요
-Right now my favourite book is <i><b> Tuesday with Morrie</b></i> and  <i><b> Reclaim your Heart</b></i>. Both books really touched my heart. I tend to go back to take a look at my favourite passages and quotes. Both books are a gift to mankind.
+📝 Outside tech, I enjoy learning language learning. 👯  이거 읽을 수 있다면 같이 공부해볼까요? 저는 토픽 시험 준비 중이에요
+
+📚Right now my favourite book is <i><b> Tuesday with Morrie</b></i> and  <i><b> Reclaim your Heart</b></i>. 
+
+
+Both books really touched my heart. I tend to go back to take a look at my favourite passages and quotes. Both books are a gift to mankind.
 
 <i>The most important thing in life is to learn how to give out love, and to let it come in."
 "So many people walk around with a meaningless life. They seem half-asleep, even when they're busy doing things they think are important. This is because they're chasing the wrong things. The way you get meaning into your life is to devote yourself to loving others, devote yourself to your community around you, and devote yourself to creating something that gives you purpose and meaning."<i/> - <b>Morrie</b>
